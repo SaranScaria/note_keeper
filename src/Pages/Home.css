@@ -1,0 +1,107 @@
+body{
+    background-color: lightgrey;
+    margin: 0%;
+}
+.inner_box{
+
+    border-style: solid;
+    border-width: 1px;
+    background-color: white;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    margin-right: 20px;
+    margin-left: 18px;
+    height: 560px;
+    border-radius: 25px;
+    box-shadow: 0 0 30px black;
+    margin-top: 19px;
+    height: 588px;
+}
+.banner{
+    border-radius: 25px;
+    height: 50px;
+
+}
+.logo{
+    height: 55px;
+    width: 60px;
+    padding-left: 13px;
+    padding-top: 13px;
+}
+.tittle{
+    font-family: Brush Script MT;
+    margin-top: -52px;
+    margin-left: 73px;
+    font-size: 35px;
+    color: green;
+}
+
+.Add_Note_Button{
+    position: relative;
+    left: 1126px;
+    top: -80px;
+    width: 165px;
+    height: 49px;
+    border-radius: 8px;
+    background-color: #588BAE;
+    color: rgb(243, 221, 221);
+    border: none;
+    font-family: Roboto,arial,sans-serif;
+    font-size: 22px;
+    font-weight: 550;
+    letter-spacing: .15px;
+    text-align: start;
+    box-shadow: 0 0 5px black;
+    text-align: start;
+}
+.Add_Note_Button:hover {
+    background: #4285f4;
+   }
+.Add_note_icon{
+    position: relative;
+    left: 1086px;
+    top: -69px;
+    width: 39px;
+    height: 31px
+}.bottom_side{
+    padding: 1%;
+}
+.pinned_notes{
+    height: 202px;
+    padding: 12px;
+    padding-top: 29px;
+}
+.Notes_div{
+    padding: 10px;
+    padding-top: 13px;
+}
+.notes_heading{
+    margin-top: -42px;
+    margin-left: 67px;
+    color: green;
+    position: relative;
+    left: -39px;
+    top: 2px;
+    font-family: Roboto,arial,sans-serif;
+    font-size: 22px;
+    font-weight: 777;
+    letter-spacing: .1px;
+}
+.notes_heading_logo{
+    position: relative;
+    left: -5px;
+    top: -9px;
+    width: 39px;
+    height: 31px;
+}
+
+
+
+
+
+
+
+
+
+
+  

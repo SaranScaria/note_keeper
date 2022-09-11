@@ -1,0 +1,71 @@
+.box{
+    border-style: solid;
+    border-width: 1px;
+    background-color: white;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    margin-right: 650px;
+    margin-left: 18px;
+    height: 560px;
+    border-radius: 25px;
+    box-shadow: 0 0 30px black;
+    margin-top: 19px;
+    height: 588px;
+    position: relative;
+    left: 358px;
+    top: -10px;
+}
+.close_button{
+    position: relative;
+    left: 642px;
+    top: -550px;
+    width: 36px;
+    height: 31px;
+    background-color: rgb(238, 85, 85);
+    font-size: larger;
+    color: aliceblue;
+    border-radius: 30px;
+    font-weight: 777;
+    box-shadow: 0 0 5px black;
+}
+.close_button:hover{
+    background-color: red;
+    box-shadow: 0 0 30px red;
+}
+.notepad{
+    height: 565px;
+    width: 601px;
+    padding-left: 0px;
+    padding-top: 13px;
+}
+.save{
+    position: relative;
+    left: 514px;
+    top: -31px;
+    width: 103px;
+    height: 27px;
+    background-color: rgb(94 219 68);
+    font-size: larger;
+    color: aliceblue;
+    border-radius: 30px;
+    font-weight: 777;
+    box-shadow: 0 0 5px black;
+}
+.delete{
+    position: relative;
+    left: 301px;
+    top: -32px;
+    width: 103px;
+    height: 27px;
+    background-color: rgb(238, 85, 85);
+    font-size: larger;
+    color: aliceblue;
+    border-radius: 30px;
+    font-weight: 777;
+    box-shadow: 0 0 5px black;
+
+}.save:hover{
+    background-color: green;
+}.delete:hover{
+    background-color: red;
+}

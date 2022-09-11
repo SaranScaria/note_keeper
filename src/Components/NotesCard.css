@@ -1,0 +1,44 @@
+.card_body{
+    background-color:#588BAE;
+    height: 200px;
+    width: 187px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
+.card_body:hover{
+    height: 210px;
+    width: 197px;
+}
+.card_img{
+    height: 114px;
+    width: 160px;
+    margin-top: 11px;
+    margin-left: 12px;
+}
+.tittle_card{
+    font-size: 22px;
+    font-family: Roboto,arial,sans-serif;
+    position: relative;
+    left: 13px;
+    top: -14px;
+    color: white;
+    letter-spacing: 1.5px;
+    font-weight: 550;
+}
+.date{
+    font-size:12px;
+    font-family:Roboto,arial,sans-serif; 
+    position: relative;
+    left: 13px;
+    top: -19px;
+    color: white;
+    letter-spacing: 1.5px;
+    font-weight: 550;
+}
+.card_pin{
+    position: relative;
+    left: 6px;
+    top: -242px;
+    width: 39px;
+    height: 31px;
+}

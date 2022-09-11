@@ -1,0 +1,43 @@
+.Notes{
+    background-color: #588BAE;
+    height: 48px;
+    width: 446px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+
+}
+.Notes_img{
+    height: 40px;
+    width: 41px;
+    margin-top: 3px;
+    margin-left: 10px;
+}
+.tittle_notes{
+    font-size: 19px;
+    font-family: Roboto,arial,sans-serif;
+    position: relative;
+    left: 65px;
+    top: -46px;
+    color: white;
+    letter-spacing: 1.5px;
+    font-weight: 550;
+}
+.date_notes{
+    font-size: 12px;
+    font-family: Roboto,arial,sans-serif;
+    position: relative;
+    left: -7px;
+    top: -76px;
+    text-align: end;
+    font-weight: 550;
+    color: white;
+    border-bottom-color: black;
+    letter-spacing: 1.15px;
+}
+.pagination_img{
+    height: 65px;
+    width: 363px;
+    margin-top: 122px;
+    margin-left: 474px;
+}
+
