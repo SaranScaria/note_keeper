@@ -6,9 +6,12 @@ import Home from './Pages/Home';
 function App() {
   return (
     <div>
-      
-    <Home/>
-      
+      <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/add_notes" element={<AddNotePage/>} />
+    </Routes>
+    </BrowserRouter>
     </div>
   )
 }
