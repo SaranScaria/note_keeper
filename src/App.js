@@ -6,9 +6,9 @@ import Home from './Pages/Home';
 function App() {
   return (
     <div>
-      <HashRouter>
+      <HashRouter basename="/note_keeper">
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/note_keeper" element={<Home />} />
         <Route path="/add_notes" element={<AddNotePage/>} />
     </Routes>
     </HashRouter>
